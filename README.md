@@ -3,7 +3,7 @@
 #
 
 <p align="center">
-  <img src="./banner.gif"/>
+  <img src=".github/workflows/BANNER ALLAN NEPOMUCENO.gif"/>
 </p>
 
 #
