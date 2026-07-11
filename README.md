@@ -10,9 +10,11 @@
 
 ### About Me
 
-Currently working as a Technology Apprentice at Positivo Tecnologia and focused on becoming a Backend Developer.
+Hello! I'm Allan Nepomuceno 👋
 
-Passionate about technology and software development, constantly seeking to improve my knowledge in Java and software engineering while building practical experience through projects and studies.
+I'm currently working as a Technology Apprentice at Positivo Tecnologia and focused on becoming a Backend Developer.
+
+I am passionate about technology and software development, constantly improving my skills in Java, programming logic, and software engineering. I enjoy learning through practical projects and exploring new technologies to build efficient solutions.
 
 #
 
@@ -22,25 +24,20 @@ Passionate about technology and software development, constantly seeking to impr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
 #
+
+### GitHub Stats
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AllanNepomuceno&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanNepomuceno&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-#
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AllanNepomuceno/AllanNepomuceno/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AllanNepomuceno/AllanNepomuceno/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/AllanNepomuceno/AllanNepomuceno/output/pacman-contribution-graph.svg">
-</picture>
 
 #
 
