@@ -1,24 +1,24 @@
-name: Generate Pacman
+name: Deploy Pacman
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: AllanNepomuceno
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Push Pacman to output branch
+      - name: Deploy
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
